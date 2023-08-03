@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\bin\Debug\ReflectionAssignment22.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\bin\Debug\ReflectionAssignment22.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\bin\Debug\ReflectionAssignment22.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\obj\Debug\ReflectionAssignment22.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\obj\Debug\ReflectionAssignment22.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\obj\Debug\ReflectionAssignment22.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\obj\Debug\ReflectionAssignment22.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\ReflectionAssignment22\ReflectionAssignment22\obj\Debug\ReflectionAssignment22.pdb
